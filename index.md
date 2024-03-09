@@ -9,3 +9,8 @@
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+- [x] Search for meme
+- [x] Copy meme address
+- [x] Paste meme address into index
+- [ ] Profit
